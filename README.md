@@ -25,7 +25,17 @@
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hca.3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hca.3" /></a></p><br><br>
 
 
+<img src="https://raw.githubusercontent.com/HCA-3/HCA-3/output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HCA-3/HCA-3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HCA-3/HCA-3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HCA-3/HCA-3/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
