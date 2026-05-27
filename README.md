@@ -41,3 +41,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+
+### 🚀 Current Focus
+- 🐧 **Linux/Debian Administration:** Automatizando procesos con Docker y Ansible.
+- ☁️ **Cloud Technologies:** Explorando AWS para despliegue de soluciones.
+
